@@ -29,8 +29,8 @@ Este proyecto analiza cómo influyen distintos hábitos de los estudiantes (sue�
 
 - `src/analisis_habitos_estudiantiles.R`: Script completo con limpieza de datos, EDA, regresiones, clustering, reducción de dimensionalidad y clasificación (árboles, random forest, boosting).
 - `docs/Informe_tecnico.pdf`: Informe técnico con desarrollo detallado del análisis.
-- `docs/Informe_cliente.pdf`: Informe resumido con conclusiones accesibles para públicos no especializados (por añadir).
-- `data/`: Dataset utilizado en el análisis (*si se permite su publicación*).
+- `docs/Informe_cliente.pdf`: Informe resumido con conclusiones accesibles para públicos no especializados.
+- `data/`: Dataset utilizado en el análisis.
 
 ---
 
@@ -55,7 +55,7 @@ Comprender cómo los hábitos diarios influyen en el rendimiento académico perm
 
 ## 👤 Autor
 
-Ángel Velázquez Bolívar – Graduado en Matemáticas, perfil junior en Ciencia de Datos  
+Ángel Velázquez Bolívar
 - 📫 [LinkedIn](https://www.linkedin.com/in/angelvelazquezbolivar)  
 - 💼 [GitHub](https://github.com/AngelV3l)
 
